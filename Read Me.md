@@ -5,7 +5,7 @@
 
 I wanted to build a digital "bank" that would allow me to save money and earn interest. It seemed like an appropriate project to build on the Vyper language given its focus on security. This is my first time building a contract on Vyper, so I wanted to build a simple project, and see how far I could push Claude (by Antropic AI) with the help of the Vyper language documentation. 
 
-I did testing of the functions on RemixIDE (which works great with Vyper!).
+I did testing of the functions on RemixIDE (which works great with Vyper!). Simple add the files to the contracts folder on RemixIDE to run the code - you will need to add the Vyper Compiler plugin to compile the contracts.
 
 
 ## Executive Summary
